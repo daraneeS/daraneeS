@@ -3,10 +3,10 @@
 
 - I Build projects using **Data Science** and **Machine Learning** knowledge.
 - Most of my projects are based on up-to-date and accessible (free) dataset I can find.
-- Most are data pulled from sending API requests (at the moment).
+- Most data are pulled from sending API requests (at the moment).
 - Hope to find **information** from the dataset
 - Hope to apply **Machine leanrning model(s)** to the dataset
-- Ultimately, hope to find **insights**, hopefully **actionable insights** 
+- Ultimately, hope to find **insights** (hopefully **actionable insights)**
 
 
 <h3 align="left">Languages and Tools:</h3>
