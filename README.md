@@ -2,11 +2,11 @@
 <h1 align="center">Hi , I'm Daranee</h1>
 
 - :green_book: I Build projects using **Data Science** and **Machine Learning** knowledge.
-- :green_book: Most of my projects are based on up-to-date and accessible (free) dataset I can find.
-- Most data are pulled from sending API requests (at the moment).
-- Hope to find **information** from the dataset
-- Hope to apply **Machine leanrning model(s)** to the dataset
-- Ultimately, hope to find **insights** (hopefully **actionable insights)** from the dataset and projects.
+- :orange_book: Most of my projects are based on up-to-date and accessible (free) dataset I can find.
+- :computer: Most data are pulled from sending API requests (at the moment).
+- :computer: Hope to find **information** from the dataset
+- :computer: Hope to apply **Machine leanrning model(s)** to the dataset
+- :computer: Ultimately, hope to find **insights** (hopefully **actionable insights)** from the dataset and projects.
 
 
 <h3 align="left">Languages and Tools:</h3>
