@@ -1,3 +1,9 @@
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
+
 <h1 align="center">Hi , I'm Daranee</h1>
 <h3 align="center">Build projects using Data Science skills.</h3>
 
