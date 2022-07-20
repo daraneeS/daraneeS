@@ -10,7 +10,7 @@
 - :orange_book: Ultimately, hope to find **insights** (hopefully **actionable insights)** from the dataset and projects.
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
 
 <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
@@ -39,7 +39,7 @@
 
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://www.linkedin.com/in/daranees" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daranees" width="20" height="20"/> </a>
