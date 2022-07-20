@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi , I'm Daranee</h1>
 
-:green_book: I Build projects using **Data Science** and **Machine Learning** knowledge.
-:green_book: Most of my projects are based on up-to-date and accessible (free) dataset I can find.
+- :green_book: I Build projects using **Data Science** and **Machine Learning** knowledge.
+- :green_book: Most of my projects are based on up-to-date and accessible (free) dataset I can find.
 - Most data are pulled from sending API requests (at the moment).
 - Hope to find **information** from the dataset
 - Hope to apply **Machine leanrning model(s)** to the dataset
