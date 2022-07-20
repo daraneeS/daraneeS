@@ -1,23 +1,12 @@
 
 <h1 align="center">Hi , I'm Daranee</h1>
-<h3 align="center">I Build projects using Data Science skills.</h3>
 
-
-- I’m currently working on **Bitcoin**
-
-- I’m looking to collaborate on **CoinMaketCap**
-
-- I’m looking for help with **Data Science**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<ul>
-     <li>Projects </li>
-     <li>Resume </li>
-     <li>LinkedIn/li>
-</u>
-</p>
-
+- I Build projects using **Data Science** and **Machine Learning** knowledge.
+- Most of my projects are based on up-to-date and accessible (free) dataset I can find.
+- Most are data pulled from sending API requests (at the moment).
+- Hope to find **information** from the dataset
+- Hope to apply **Machine leanrning model(s)** to the dataset
+- Ultimately, hope to find **insights**, hopefully **actionable insights** 
 
 
 <h3 align="left">Languages and Tools:</h3>
