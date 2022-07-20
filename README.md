@@ -1,8 +1,5 @@
 
-<h1 align="center">Hi , I'm Daranee    
-<a href="https://www.linkedin.com/in/daranees" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daranees" height="30" width="40" /></a>
-</h1>
+<h1 align="center">Hi , I'm Daranee   </h1>
 
 - :green_book: I Build projects using **Data Science** and **Machine Learning** knowledge.
 - :green_book: Most of my projects are based on up-to-date and accessible (free) dataset I can find.
