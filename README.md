@@ -2,6 +2,13 @@
 <h1 align="center">Hi , I'm Daranee</h1>
 <h3 align="center">I Build projects using Data Science skills.</h3>
 
+
+- I’m currently working on **Bitcoin**
+
+- I’m looking to collaborate on **CoinMaketCap**
+
+- I’m looking for help with **Data Science**
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <ul>
