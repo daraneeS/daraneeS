@@ -2,7 +2,7 @@
 <h1 align="center">Hi , I'm Daranee   </h1>
 
 
-- :green_book: I Build projects using **Data Science** and **Machine Learning** knowledge.
+- :green_book: I build projects using **Data Science** and **Machine Learning** knowledge.
 - :green_book: Most of my projects are based on up-to-date and accessible (free) dataset I can find.
 - :blue_book: Most data are pulled from sending API requests (at the moment).
 - :blue_book: Hope to find **information** from the dataset
