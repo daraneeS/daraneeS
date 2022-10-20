@@ -8,7 +8,7 @@
 
 <img width="20%" align="right" alt="Github" src="./The Little Things - Working.png" />
 
-I learn and apply Data Engineer, Data Science and Machine Learning knowledge into projects. Some of the tools I use:
+I learn and apply Data Engineer, Data Science and Machine Learning knowledge into projects. 
 
 
 
