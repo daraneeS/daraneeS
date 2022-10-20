@@ -4,8 +4,7 @@
 
 ### About me and the Repos
 
-I learn and apply Data Engineer, Data Science and Machine Learning knowledge into projects. Most dataset are pulled from sending API requests(at the moment). Hope to find insights
-
+I learn and apply Data Engineer, Data Science and Machine Learning knowledge into projects. 
 <br>
 <br>
 
