@@ -1,9 +1,4 @@
-<h2> Hello, I'm Daranee! </h2>
-
-
-I learn and apply Data Engineer, Data Science and Machine Learning knowledge into projects. 
-<br>
-<img width="20%" align="right" alt="Github" src="./The Little Things - Working.png" />
+<h2> Hello, I'm Daranee! <img width="45%" align="right" alt="Github" src="./The Little Things - Working.png" /> </h2>
 
 <a href= "https://www.linkedin.com/in/daraneeS/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
@@ -11,3 +6,8 @@ I learn and apply Data Engineer, Data Science and Machine Learning knowledge int
 <a href= "mailto:daraneecsrx@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/>
 </a>
+
+I learn and apply Data Engineer, Data Science and Machine Learning knowledge into projects. 
+<br>
+
+
