@@ -1,9 +1,7 @@
 
 
 <h2> Hello, I'm Daranee!</h2>
-
-### About me and the Repos
-
+<br>
 I learn and apply Data Engineer, Data Science and Machine Learning knowledge into projects. 
 <br>
 <br>
