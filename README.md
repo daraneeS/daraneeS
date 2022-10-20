@@ -1,10 +1,7 @@
-
-
-<h2>   
 <a href= "https://www.linkedin.com/in/daraneeS/">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
 </a> 
-<center>Hello, I'm Daranee! </center>
+<h2 align="center"> Hello, I'm Daranee! 
 </h2>
 
 
