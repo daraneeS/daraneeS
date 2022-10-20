@@ -10,7 +10,7 @@
 
 I learn and apply Data Engineer, Data Science and Machine Learning knowledge into projects. Some of the tools I use:
 
-![png](tools.png)
+
 
 
 
