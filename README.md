@@ -4,9 +4,6 @@
 <br>
 I learn and apply Data Engineer, Data Science and Machine Learning knowledge into projects. 
 <br>
-<br>
-
-
 
 
 <!-- Just a hack for a thin line  -->
