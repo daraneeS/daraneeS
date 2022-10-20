@@ -1,4 +1,4 @@
-<h2> Hello, I'm Daranee! </h2> <img width="20%" align="right" alt="Github" src="./The Little Things - Working.png" />
+<h2> Hello, I'm Daranee! </h2> <img width="25%" align="right" alt="Github" src="./The Little Things - Working.png" />
 
 I learn and apply Data Engineer, Data Science and Machine Learning knowledge into projects. 
 <br>
