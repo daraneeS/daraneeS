@@ -1,7 +1,7 @@
 
 
 <h2> Hello, I'm Daranee!</h2>
-<br>
+
 I learn and apply Data Engineer, Data Science and Machine Learning knowledge into projects. 
 <br>
 
