@@ -1,4 +1,4 @@
-<h2> Hello, I'm Daranee! <img width="45%" align="right" alt="Github" src="./The Little Things - Working.png" /> </h2>
+<h2> Hello, I'm Daranee! </h2> <img width="20%" align="right" alt="Github" src="./The Little Things - Working.png" />
 
 <a href= "https://www.linkedin.com/in/daraneeS/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
