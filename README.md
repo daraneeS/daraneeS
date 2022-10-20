@@ -3,7 +3,7 @@
 
 I learn and apply Data Engineer, Data Science and Machine Learning knowledge into projects. 
 <br>
-<img width="45%" align="right" alt="Github" src="./The Little Things - Working.png" />
+<img width="20%" align="right" alt="Github" src="./The Little Things - Working.png" />
 
 <a href= "https://www.linkedin.com/in/daraneeS/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
