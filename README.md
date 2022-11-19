@@ -6,9 +6,7 @@
   <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/>
 </a>
 
-<img width="20%" align="right" alt="Github" src="./The Little Things - Working.png" />
-
-I learn and apply Data Engineer, Data Science and Machine Learning knowledge into projects. 
+https://user-images.githubusercontent.com/93210361/202836050-3ebe4d66-0952-4ad1-a8bf-d638fccaa0b8.mov
 
 
 
