@@ -3,7 +3,7 @@
 
 [https://sanfrancisco-incidents-2018-2022.netlify.app/](https://sanfrancisco-incidents-2018-2022.netlify.app/)
 
-![](https://github.com/daraneeS/daraneeS/blob/main/sf_map.gif)
+![](https://github.com/daraneeS/daraneeS/sf_map.gif)
 
 
 <a href= "https://www.linkedin.com/in/daraneeS/" target="_blank">
