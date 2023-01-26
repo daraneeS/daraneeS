@@ -7,8 +7,6 @@
   <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/>
 </a>
 
-<h4>Check out my latest projects!</h4>
-
 [https://sanfrancisco-incidents-2018-2022.netlify.app/](https://sanfrancisco-incidents-2018-2022.netlify.app/)
 
 [https://sf-crime-cases.onrender.com/](https://sf-crime-cases.onrender.com/)
