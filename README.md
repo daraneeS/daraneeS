@@ -9,11 +9,11 @@
 
 [https://sanfrancisco-incidents-2018-2022.netlify.app/](https://sanfrancisco-incidents-2018-2022.netlify.app/)
  
-[San Francisco Police Incidents Report 2018-2022] (https://github.com/daraneeS/San-Francisco-Police-Incident-Report)
+[https://github.com/daraneeS/San-Francisco-Police-Incident-Report] (https://github.com/daraneeS/San-Francisco-Police-Incident-Report)
 ![](sf_map.gif)
 
 
 <h3> Healthcare-Database-on-AWS-RDS  </h3>
 
 ![diagram.png](https://github.com/daraneeS/diagram.png)
-[Healthcare-Database-on-AWS-RDS](https://github.com/daraneeS/Healthcare-Database-on-AWS-RDS)
+[https://github.com/daraneeS/Healthcare-Database-on-AWS-RDS](https://github.com/daraneeS/Healthcare-Database-on-AWS-RDS)
