@@ -14,4 +14,4 @@
 
 <h3> Healthcare-Database-on-AWS-RDS  </h3>
 
-![diagram.png](https://github.com/daraneeS/diagram.png)
+![png](diagram.png)
