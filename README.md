@@ -11,7 +11,3 @@
 
 ![](sf_map.gif)
 
-
-<h3> Healthcare-Database-on-AWS-RDS  </h3>
-
-![png](diagram.png)
