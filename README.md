@@ -7,6 +7,3 @@
 [<img src="sf_map.gif">](https://github.com/daraneeS/San-Francisco-Police-Incident-Report)
 
 
-<a href="[https://github.com/daraneeS/San-Francisco-Police-Incident-Report]
-" target="_blank"><img src="sf_map.gif" /></a>
-
