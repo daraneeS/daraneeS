@@ -4,6 +4,9 @@
 
 <!---[https://sanfrancisco-incidents-2018-2022.netlify.app/](https://sanfrancisco-incidents-2018-2022.netlify.app/)-->
 
-[<img src="sf_map.gif">](https://github.com/daraneeS/[clinicaltrials_sep23](https://github.com/daraneeS/San-Francisco-Police-Incident-Report)https://github.com/daraneeS/San-Francisco-Police-Incident-Report)
+[<img src="sf_map.gif">](https://github.com/daraneeS/San-Francisco-Police-Incident-Report)
 
+
+<a href="[https://github.com/daraneeS/San-Francisco-Police-Incident-Report]
+" target="_blank"><img src="sf_map.gif" /></a>
 
